@@ -4,7 +4,7 @@
   "description": "\"Convert your .pdf tickets (or any .pdf) into images\"",
   "license": "ISC",
   "author": "Baconway",
-  "type": "commonjs",
+  "type": "module",
   "main": "a.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
