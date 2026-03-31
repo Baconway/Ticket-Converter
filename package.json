@@ -1,0 +1,15 @@
+{
+  "name": "ticket-converter",
+  "version": "1.0.0",
+  "description": "\"Convert your .pdf tickets (or any .pdf) into images\"",
+  "license": "ISC",
+  "author": "Baconway",
+  "type": "commonjs",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pdf-to-img": "^5.0.0"
+  }
+}
